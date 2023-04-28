@@ -1,5 +1,5 @@
 # Data Extraction and Analysis
-Data is extracted from Twitter and Reddit to understand the political slant of US news websites.
+Data is extracted from Twitter and Reddit to understand the political slant (media bias) of US news websites to categorize them into left right and center.
 
 ## Brank 1: Twitter data extraction
 - Code for data extraction is in the "Data Extraction code.ipynb" file. 
